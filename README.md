@@ -1,4 +1,4 @@
-# Course-end Project - Complaint Redressal System
+# Complaint Redressal System
 ## Project Background
 ABC Telecom Ltd. is one of India’s major telecommunication service providers offering landline, mobile phone and Fiber optic broadband services across the country. This is a prototype of an online complaint management system where the customers can raise complaints regarding their landlines and broadband services.
 ## Running The Application
